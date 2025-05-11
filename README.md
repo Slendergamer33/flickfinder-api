@@ -25,3 +25,20 @@ FlickFinder is a movie search app that allows users to search for movies based o
 
 ## 📁 Structure
 
+src/
+├── main/
+│ ├── java/
+│ │ └── com/flickfinder/
+│ │ ├── controller/
+│ │ ├── dao/
+│ │ ├── model/
+│ │ └── AppConfig.java
+│ └── resources/
+│ └── movies.db
+└── test/
+└── java/
+└── com/flickfinder/
+├── controller/
+├── dao/
+├── model/
+└── IntegrationTests.java
